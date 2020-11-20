@@ -580,11 +580,11 @@ end
 -- SendNUIMessage('ongcPhoneRTC_receive_offer')
 -- SendNUIMessage('ongcPhoneRTC_receive_answer')
 
--- RegisterNUICallback('gcPhoneRTC_send_offer', function (data)
+-- ESX.RegisterNUICallback('gcPhoneRTC_send_offer', function (data)
 
 -- end)
 
--- RegisterNUICallback('gcPhoneRTC_send_answer', function (data)
+-- ESX.RegisterNUICallback('gcPhoneRTC_send_answer', function (data)
 
 -- end)
 
